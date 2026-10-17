@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for Atomic Habits: 30-Day Progressive Curriculum & Identity-First Daily Tracker PWA. Details local-first Dexie.js IndexedDB architecture, warm editorial design system, 30-day curriculum content engine, identity-first habit tracking with Never Miss Twice rules, PWA manifest/service worker, and full JSON export/import.",
+  "updatedAt": "2026-10-16T23:57:09.735580480Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

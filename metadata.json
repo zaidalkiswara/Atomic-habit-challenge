@@ -1,0 +1,8 @@
+{
+  "name": "Atomic Habits - 30-Day Curriculum & Identity Tracker",
+  "description": "A local-first, distraction-free PWA translating James Clear's Atomic Habits into daily execution with a 30-day curriculum and identity-based habit tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
